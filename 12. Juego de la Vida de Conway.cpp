@@ -55,6 +55,7 @@ void siguienteGeneracion(int tablero[N][N], int nuevoTablero[N][N]) {
 }
 
 int main() {
+	cout<<"Bienvenido:";
     int tablero[N][N];
     int nuevoTablero[N][N];
 
