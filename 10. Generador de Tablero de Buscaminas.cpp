@@ -54,6 +54,7 @@ void imprimirTableroMinas(const int minasAdyacentes[][SIZE]) {
 }
 
 int main() {
+	cout<<"Bienvenido:";
     int tablero[SIZE][SIZE] = {0};
     int minasAdyacentes[SIZE][SIZE] = {0};
 
